@@ -1,0 +1,2 @@
+# cuadricula-rgb
+Cuadrícula rgb
